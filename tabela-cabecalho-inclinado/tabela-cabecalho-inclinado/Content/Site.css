@@ -84,4 +84,9 @@ textarea {
         text-align: left;
         // white-space: nowrap; /*whether to display in one line or not*/
     }
+
+tbody td, tbody th {
+    padding-top: 2px !important;
+    padding-bottom: 2px !important;
+}
 /*############################################################*/
